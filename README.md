@@ -3,7 +3,7 @@
 Welcome to my professional profile repository. You can find my latest resume and portfolio details below.
 
 ## 📄 Download Resume
-- [Click here to view/download my Professional CV](./Abhishek_Singh_Professional_CV_Final.pdf)
+- [Click here to view/download my Professional CV](https://abhisingh2211.github.io/My-CV/)
 
 ## 🎯 Career Summary
 A technically proficient Developer and MCA student at Shoolini University, specializing in Python Development, Prompt Engineering, and Ethical Hacking.
