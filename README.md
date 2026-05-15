@@ -14,4 +14,4 @@ A technically proficient Developer and MCA student at Shoolini University, speci
 - **Core Skills:** Python, Web Dashboard Architecture, AI Content Creation, and Cybersecurity.
 
 ---
-*For a complete view of my certifications and project proofs, please visit my [Digital Portfolio](https://drive.google.com/drive/folders/172ahDV5ODTpIM73sBNIJgXYk0kWDnoJK).*
+*For a complete view of my certifications proofs, please visit my [Digital Portfolio](https://drive.google.com/drive/folders/172ahDV5ODTpIM73sBNIJgXYk0kWDnoJK).*
