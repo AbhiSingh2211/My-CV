@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Abhishek Singh | Portfolio</title>
+    <style>
+        :root { --neon: #00f2ff; --bg: #050505; --card: #111111; }
+        body { font-family: 'Inter', sans-serif; background-color: var(--bg); color: white; margin: 0; padding: 0; }
+        .container { padding: 40px 20px; max-width: 900px; margin: auto; }
+        header { text-align: center; border-bottom: 2px solid var(--neon); padding-bottom: 20px; }
+        h1 { color: var(--neon); font-size: 2.5rem; text-transform: uppercase; margin-bottom: 5px; }
+        .tagline { opacity: 0.8; font-size: 1.1rem; }
+        .section-title { color: var(--neon); border-left: 4px solid var(--neon); padding-left: 10px; margin-top: 40px; }
+        .grid { display: grid; grid-template-columns: 1fr; gap: 15px; margin-top: 20px; }
+        .card { background: var(--card); padding: 20px; border-radius: 8px; border: 1px solid #222; }
+        .badge { background: var(--neon); color: black; padding: 3px 10px; border-radius: 15px; font-weight: bold; font-size: 0.8rem; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Abhishek Singh</h1>
+            <p class="tagline">MCA Student @ Shoolini University | AI & Security Specialist</p>
+            <p>📧 Abhishekkrsingh9097@gmail.com | 📱 +91 9102489113</p>
+        </header>
+
+        <h2 class="section-title">Technical Expertise</h2>
+        <div class="grid">
+            <div class="card">
+                <strong>Programming:</strong> Python, HTML5/CSS3, JavaScript, Dashboard Architecture.
+            </div>
+            <div class="card">
+                <strong>AI & Security:</strong> GenAI, Prompt Engineering, Ethical Hacking (MCEH).
+            </div>
+        </div>
+
+        <h2 class="section-title">Featured Projects</h2>
+        <div class="grid">
+            <div class="card">
+                <h3>Multi-Tier Admin Dashboard</h3>
+                <p>Managed 2000+ lines of code with real-time data flow and Super Admin controls.</p>
+            </div>
+            <div class="card">
+                <h3>AI Cinematic Content</h3>
+                <p>Created face-swapping and hyper-realistic portraits for social awareness (Swachh Bharat).</p>
+            </div>
+        </div>
+
+        <h2 class="section-title">Certifications</h2>
+        <div class="grid">
+            <div class="card"><span class="badge">MCEH</span> Metaxone Certified Ethical Hacker</div>
+            <div class="card"><span class="badge">Internshala</span> Prompt Engineering for GenAI (Top Performer)</div>
+        </div>
+    </div>
+</body>
+</html>
